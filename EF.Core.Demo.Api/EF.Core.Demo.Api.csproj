@@ -10,6 +10,7 @@
     <PackageReference Include="Autofac.AspNetCore.Multitenant" Version="1.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.Build" Version="16.0.461" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.17" />
   </ItemGroup>
 
   <ItemGroup>
