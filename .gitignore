@@ -1,1 +1,3 @@
-bin/
+EF.Core.Demo.Data/bin/
+EF.Core.Demo.Service/bin/
+EF.Core.Demo.Repository/bin/
